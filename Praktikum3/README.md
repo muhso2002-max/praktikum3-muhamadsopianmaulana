@@ -1,9 +1,8 @@
 # Praktikum-3-Pengantar-Pemrograman
 # Latihan-3-Muhamad-Sopian-Maulana-312510218
 
-#Flowchart
-# Logika-Flowchart-Latihan-3
-
+# flowchart
+![Flowchart](flowchart.png)
 Mulai
 Input
 Masukkan a → bilangan pertama
@@ -19,4 +18,7 @@ Jika tidak, maka terbesar = c
 Output
 Tampilkan teks: "Bilangan terbesar adalah: [terbesar]"
 Selesai
+
+# hasil
+![hasil](hasil.png)
 
