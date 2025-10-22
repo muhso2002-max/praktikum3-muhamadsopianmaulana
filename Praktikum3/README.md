@@ -8,6 +8,7 @@ Input
 Masukkan a → bilangan pertama
 Masukkan b → bilangan kedua
 Masukkan c → bilangan ketiga
+
 Proses Penentuan Bilangan Terbesar
 Periksa: apakah a >= b dan a >= c?
 Jika ya, maka terbesar = a
